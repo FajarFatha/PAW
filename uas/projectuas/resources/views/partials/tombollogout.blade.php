@@ -1,0 +1,1 @@
+<a class="navbar-text" href='{{ route('logout') }}'><button type="button" class="btn btn-danger">Logout</button></a>
